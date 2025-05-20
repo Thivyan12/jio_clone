@@ -1,0 +1,1591 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.jiologo {
+    height: 40px;
+    width: 70px;
+}
+
+.navi-bg {
+    background-color: #051ceb;
+}
+
+#home {
+    color: white;
+    font-weight: 500;
+}
+
+#mobile {
+    color: white;
+    font-weight: 500;
+}
+
+#choices {
+    color: white;
+    font-weight: 500;
+}
+
+#explore {
+    color: white;
+    font-weight: 500;
+}
+
+#contactus {
+    color: white;
+    font-weight: 500;
+}
+
+.profile {
+    margin-left: 0px;
+}
+
+.search-button {
+    border-radius: 20px !important;
+    width: 300px !important;
+}
+
+.to-search {
+    margin-right: 30px !important;
+}
+
+.search-logo {
+    color: white;
+    background-color: #021c45;
+    padding: 4px;
+    margin-left: 90px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.search-button {
+    width: 50px;
+    border-width: 0px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    text-align: left;
+
+}
+
+.yellow-bg-container {
+    background-image: url('https://res.cloudinary.com/def6duhaa/image/upload/v1723371828/yellowmobile_c9ufbr.jpg');
+    height: 470px;
+    background-size: cover;
+    padding-left: 26px;
+    border-radius: 15px;
+}
+
+.yellow-bg-container-medium {
+    background-image: url('https://res.cloudinary.com/def6duhaa/image/upload/v1723371828/yellowmobile_c9ufbr.jpg');
+    height: 310px;
+    width: 80%;
+    background-size: cover;
+    padding-left: 26px;
+    border-radius: 15px;
+}
+
+.prima {
+    font-family: 'Roboto';
+    font-weight: 600;
+    color: white;
+    font-size: 18px;
+}
+
+.smart-features {
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    font-family: 'Roboto';
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.click {
+    margin-top: 12px;
+}
+
+.buy-now-jiomart {
+    background-color: #c4100a;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 136px;
+    font-weight: 600;
+}
+
+.explore-button {
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Roboto';
+    font-weight: 600;
+    border-radius: 25px;
+    height: 35px;
+    width: 90px;
+    margin-left: 10px;
+}
+
+
+.tri-bg-container {
+    background-image: url('https://res.cloudinary.com/def6duhaa/image/upload/v1722409702/freedom2-Photoroom_bll7ux.png');
+    background-size: cover;
+    height: 60%;
+    border-radius: 15px;
+}
+
+.tri-medium {
+    background-image: url('https://res.cloudinary.com/def6duhaa/image/upload/v1722409702/freedom2-Photoroom_bll7ux.png');
+    background-size: cover;
+    height: 60%;
+    width: 80%;
+    border-radius: 15px;
+}
+
+.tri-card {
+    padding-left: 25px;
+}
+
+.tri-card-medium {
+    padding-left: 50px;
+}
+
+.airfiber {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #151765;
+    background-color: #f6c56e;
+    color: white;
+    height: 30px;
+    width: 78px;
+    padding: 6px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.freedom-offer {
+    font-family: 'Roboto';
+    font-size: 28px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.get-installation {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    color: #151765;
+}
+
+.click {
+    margin-top: 12px;
+}
+
+.claim-offer {
+    background-color: #151765;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 136px;
+    font-weight: 600;
+}
+
+.recommending-section {
+    margin-top: 45px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    height: 189px;
+    width: 300px;
+    margin-right: 5px;
+}
+
+.unlimited-offer-image {
+    height: 70px;
+    width: 125px;
+    border-radius: 10px;
+}
+
+.unlimited-offer-image-medium {
+    height: 90px;
+    width: 145px;
+    border-radius: 10px;
+}
+
+.amazon {
+    margin-left: 3px;
+}
+
+.youtube-image {
+    height: 65px;
+    width: 125px;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+
+.youtube-image-medium {
+    height: 85px;
+    width: 145px;
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-left: 65px;
+}
+
+.unlimited-offer {
+    margin-top: 8px;
+    font-family: 'Roboto';
+    font-size: 8px;
+    color: #f216bb;
+    font-weight: 600;
+    text-align: center;
+}
+
+.unlimited-offer-medium {
+    margin-top: 8px;
+    font-family: 'Roboto';
+    font-size: 8px;
+    color: #f216bb;
+    font-weight: 600;
+    padding-right: 60px;
+}
+
+.unlimited-offer-medium {
+    margin-top: 10px;
+    font-family: 'Roboto';
+    font-size: 8px;
+    color: #f216bb;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.true5g-bg-container {
+    background-image: linear-gradient(#450387, #8d18ed, #9923fa);
+    background-size: cover;
+    height: 65%;
+    border-radius: 15px;
+}
+
+.true5g-bg-container-medium {
+    background-image: linear-gradient(#450387, #8d18ed, #9923fa);
+    background-size: cover;
+    height: 65%;
+    width: 80%;
+    border-radius: 15px;
+}
+
+.true5g-card {
+    padding-left: 18px;
+}
+
+.true5g-card-medium {
+    padding-left: 40px;
+}
+
+.true-5g {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #0f94fa;
+    color: white;
+    height: 30px;
+    width: 78px;
+    padding: 6px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.live-your-life {
+    font-family: 'Roboto';
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+}
+
+.now-enjoy-unlimited {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+}
+
+.click {
+    margin-top: 12px;
+}
+
+.recharge-now {
+    background-color: #0f94fa;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 136px;
+    font-weight: 600;
+}
+
+.true5g-image-container {
+    background-color: #350366;
+    height: 180px;
+    width: 180px;
+    margin-left: 85px;
+    margin-top: 8px;
+    margin-right: 110px;
+    border-radius: 100px;
+}
+
+.alluarjun {
+    height: 210px;
+    width: 175px;
+}
+
+.border {
+    margin-top: 70px;
+}
+
+.alluarjun-image {
+    margin-left: 25px;
+}
+
+.true5g-image-container-medium {
+    background-color: #350366;
+    height: 230px;
+    width: 230px;
+    margin-left: 70px;
+    margin-top: 8px;
+    margin-right: 110px;
+    border-radius: 140px;
+}
+
+.alluarjun-medium {
+    height: 254px;
+    width: 235px;
+}
+
+.get-set {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+}
+
+.get-set-medium {
+    font-family: "Arial Black";
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+}
+
+.mobile {
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.airfiber-fiber {
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.prepaid-card {
+    background-color: #0335fc;
+    border-radius: 15px;
+    padding: 22px;
+    margin-top: 15px;
+    width: 310px;
+}
+
+.prepaid-card-medium {
+    background-color: #0335fc;
+    border-radius: 15px;
+    padding: 22px;
+    margin-top: 15px;
+    width: 100%;
+}
+
+.prepaid {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 12px;
+    background-color: #03155c;
+    width: 75px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.jio-number {
+    background-color: white;
+    height: 40px;
+    width: 270px;
+    border-radius: 8px;
+    border-width: 0px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.jio-number-medium {
+    background-color: white;
+    height: 40px;
+    width: 90%;
+    border-radius: 8px;
+    border-width: 0px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.user-number {
+    color: grey;
+    font-weight: 100;
+}
+
+.amount {
+    background-color: white;
+    height: 39px;
+    width: 150px;
+    border-radius: 8px;
+    border-width: 0px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: 'Roboto';
+    font-weight: 100;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.amount-medium {
+    background-color: white;
+    height: 39px;
+    width: 60%;
+    border-radius: 8px;
+    border-width: 0px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: 'Roboto';
+    font-weight: 100;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.proceed-button {
+    margin-top: 25px;
+    background-color: #ebedf7;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 20px;
+    height: 34px;
+    width: 120px;
+    border-width: 0px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.pay-button {
+    margin-top: 18px;
+    background-color: #ebedf7;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 20px;
+    height: 32px;
+    width: 70px;
+    border-width: 0px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.get-jioairfiber {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ddccff;
+    background-color: transparent;
+    font-family: 'Roboto';
+    font-size: 15px;
+    border-radius: 20px;
+    height: 38px;
+    width: 130px;
+    text-align: center;
+    color: #040f70;
+    font-weight: 600;
+}
+
+.upper-button {
+    margin-bottom: 14px;
+}
+
+.lower-button {
+    margin-bottom: 14px;
+}
+
+.future-entertainment-container {
+    background-color: #e3effc;
+    background-size: cover;
+}
+
+.future-entertainment-container-medium {
+    background-color: #e3effc;
+    width: 100%;
+    height: 95%;
+}
+
+.future-airfiber {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #1587d4;
+    color: white;
+    height: 32px;
+    width: 78px;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 6px;
+}
+
+.future-entertainment {
+    font-family: 'Arial Black';
+    font-size: 22px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.future-entertainment-small {
+    font-family: 'Roboto';
+    font-size: 22px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.get-digital-tv {
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.click {
+    margin-top: 12px;
+}
+
+.future-book-now {
+    background-color: #1587d4;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 90px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.holi-image {
+    height: 250px;
+    width: 335px;
+}
+
+.holi-image-medium {
+    height: 90%;
+    width: 80%;
+}
+
+.entertainment-true5g-container {
+    background-image: linear-gradient(#4688fa, #6894fc, #739dff);
+}
+
+.entertainment-true5g-container-medium {
+    background-image: linear-gradient(#4688fa, #6894fc, #739dff);
+    height: 95%;
+    width: 100%;
+}
+
+.entertainment-card-medium {
+    padding-left: 35px;
+}
+
+.entertainment-true5g {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #1f1bfa;
+    color: white;
+    height: 32px;
+    width: 78px;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 6px;
+}
+
+.entertainment-era {
+    font-family: 'Arial Black';
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.entertainment-era-small {
+    font-family: 'Roboto';
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.click {
+    margin-top: 12px;
+}
+
+.check-availability {
+    background-color: #1f1bfa;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 150px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+}
+
+.seeing-phone-image {
+    height: 230px;
+    width: 330px;
+}
+
+.seeing-phone-image-medium {
+    width: 86%;
+}
+
+.india-favourite {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.india-favourite-small {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.awesome-loaded-card {
+    background-color: #ebedff;
+}
+
+.awesome-myjio {
+    font-family: 'Roboto';
+    font-size: 18px;
+    margin-top: 23px;
+    font-weight: bold;
+}
+
+.awesome-loaded-myjio {
+    font-family: 'Arial Black';
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.awesome-loaded-myjio-small {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.awesome-loaded-myjio-medium {
+    font-family: 'Arial Black';
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.enjoyments-myjio {
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+.enjoyments-myjio-medium {
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+
+.awesome-download-now {
+    background-color: #1f1bfa;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 140px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+}
+
+.loaded-image-card {
+    margin-top: 30px;
+    padding-right: 50px;
+}
+
+.jio-recharge {
+    height: 168%;
+    width: 20%;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+
+.jio-shopping {
+    height: 168%;
+    width: 32%;
+    border-radius: 8px;
+}
+
+.jio-streaming {
+    height: 88%;
+    width: 38%;
+    border-radius: 8px;
+}
+
+.jio-gaming {
+    height: 120%;
+    width: 20%;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.jio-mart-card {
+    background-image: linear-gradient(#5ba9fc, #b6d7fa);
+    background-size: cover;
+}
+
+.jio-mart-card-medium {
+    background-image: linear-gradient(#5ba9fc, #b6d7fa);
+    height: 95%;
+    width: 100%;
+}
+
+.shopping-myjio {
+    font-family: 'Roboto';
+    font-size: 18px;
+    margin-top: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+.everyday-shopping-myjio {
+    font-family: 'Arial Black';
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.everyday-shopping-myjio-small {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.grocery-shopping-myjio {
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+.grocery-shopping-myjio-medium {
+    font-family: 'Roboto';
+    font-size: 17px;
+}
+
+.shopping-download-now {
+    background-color: #1587d4;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 140px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+}
+
+.jio-mart-logo {
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    margin-right: 4px;
+}
+
+.jio-shopping-circle-bg {
+    background-image: url('https://res.cloudinary.com/def6duhaa/image/upload/v1722936074/jiologocircle-removebg-preview_vkenhu.png');
+    height: 65%;
+    background-size: cover;
+    width: 95%;
+}
+
+.jio-shopping-circle-bg-small {
+    background-image: url('https://res.cloudinary.com/def6duhaa/image/upload/v1722936074/jiologocircle-removebg-preview_vkenhu.png');
+    height: 50%;
+    background-size: cover;
+    width: 97%;
+}
+
+.grocery-shopping-image {
+    height: 265px;
+    width: 370px;
+}
+
+.grocery-shopping-image-medium {
+    height: 99%;
+    width: 107%;
+}
+
+.jio-saavn-card {
+    background-color: #e6fcf0;
+}
+
+.jio-saavn-card-medium {
+    background-color: #e6fcf0;
+    width: 100%;
+    height: 95%;
+}
+
+.jiosaavn {
+    font-family: 'Roboto';
+    font-size: 18px;
+    margin-top: 12px;
+    font-weight: bold;
+}
+
+.saavn-music-plans {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.saavn-music-plans-medium {
+    font-family: 'Arial Black';
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.saavn-offers {
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+.saavn-offers-medium {
+    font-family: 'Roboto';
+    font-size: 17px;
+}
+
+.jiosaavn-download-now {
+    background-color: #59eb98;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 140px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.jio-saavn-logo {
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    background-color: white;
+    border-radius: 100px;
+    border-width: 0px;
+}
+
+.jiosaavn-image {
+    height: 185px;
+    width: 225px;
+    border-radius: 8px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+
+.jiosaavn-image-medium {
+    height: 70%;
+    width: 75%;
+    border-radius: 8px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+
+.connecting-jio {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 35px;
+}
+
+.connecting-jio-medium {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 35px;
+}
+
+.jio-dhandhan {
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+
+.jio-dhandhan-medium {
+    border-radius: 25px;
+    margin-bottom: 25px;
+    height: 75%;
+    width: 87%;
+    margin-left: 65px;
+}
+
+.jio-dhan-buynow {
+    background-color: #0740fa;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 90px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+}
+
+.jio-dhan-buynow-medium {
+    background-color: #0740fa;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 100px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 16px;
+}
+
+.shape-business-together {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.shape-business-together-medium {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.future-explore-business {
+    color: #0707fa;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 54px;
+}
+
+.future-business-card {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d2d2d4;
+    border-radius: 10px;
+    width: 280px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.future-business-card-medium {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d2d2d4;
+    border-radius: 10px;
+    width: 340px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.future-business-container {
+    margin-top: 34px;
+}
+
+.speedometer-image {
+    height: 20px;
+    width: 36px;
+}
+
+.hight-speed {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.hight-speed-medium {
+    font-family: 'Arial Black';
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.future-paragraph {
+    font-family: 'Roboto';
+    color: #868687;
+    font-size: 15px;
+    margin-bottom: 35px;
+}
+
+.future-paragraph-medium {
+    font-family: 'Roboto';
+    color: #868687;
+    font-size: 15px;
+    margin-bottom: 35px;
+}
+
+.future-know-more {
+    color: #0707fa;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.voice-recorder-image {
+    height: 30px;
+    width: 36px;
+}
+
+.mobile-hotspot-image {
+    height: 33px;
+    width: 32px;
+}
+
+.cyber-solutions-image {
+    height: 38px;
+    width: 38px;
+}
+
+.iot-image {
+    height: 32px;
+    width: 32px;
+}
+
+.jio-job-card {
+    background-color: #ebe1fc;
+}
+
+.careers-at-jio {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 18px;
+}
+
+.careers-at-jio-medium {
+    font-family: 'Arial Black';
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 18px;
+}
+
+.join-jio {
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+.join-jio-medium {
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+
+.view-job-openings {
+    background-color: #1f1bfa;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 25px;
+    font-family: 'Roboto';
+    height: 35px;
+    width: 150px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.careers-at-jio-card-medium {
+    margin-top: 75px;
+}
+
+.working-proffesional-image {
+    height: 220px;
+    width: 168px;
+}
+
+.working-proffesional-image-medium {
+    height: 50%;
+    width: 50%;
+}
+
+.great-place-work {
+    background-color: #fa0505;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    width: 55px;
+    height: 80px;
+    padding-left: 4px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.certified {
+    background-color: #1f1bfa;
+    font-size: 5px;
+    width: 55px;
+    height: 30px;
+    padding-left: 2px;
+    color: white;
+    padding-top: 3px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    border-width: 0px;
+    font-weight: 600;
+}
+
+.india {
+    color: white;
+    font-size: 9px;
+    margin-left: 13px;
+    font-weight: bold;
+}
+
+.great-place-work-medium {
+    background-color: #fa0505;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    width: 65px;
+    height: 118px;
+    padding-left: 4px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding-top: 8px;
+}
+
+.certified-medium {
+    background-color: #1f1bfa;
+    font-size: 6px;
+    width: 65px;
+    height: 50px;
+    padding-left: 2px;
+    color: white;
+    padding-top: 8px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    border-width: 0px;
+    font-weight: 600;
+}
+
+.india-medium {
+    color: white;
+    font-size: 12px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.know-whats-up {
+    font-family: 'Roboto';
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.know-whats-up-medium {
+    font-family: 'Arial Black';
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.connecting-everyone {
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+.connecting-everyone-medium {
+    font-family: 'Roboto';
+    font-size: 17px;
+}
+
+.explore-all-stories {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: #0707fa;
+}
+
+.working-image {
+    height: 145px;
+    width: 250px;
+    border-radius: 12px;
+}
+
+.medical-image {
+    height: 150px;
+    width: 252px;
+    border-radius: 12px;
+}
+
+.innovation-man-image {
+    height: 145px;
+    width: 252px;
+    border-radius: 12px;
+}
+
+.technology-5g-image {
+    height: 145px;
+    width: 250px;
+    border-radius: 12px;
+}
+
+.technology {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-size: 100;
+    color: #6e6d6d;
+}
+
+.productivity {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.working-image-medium {
+    height: 178px;
+    width: 338px;
+    border-radius: 12px;
+}
+
+.medical-image-medium {
+    height: 178px;
+    width: 338px;
+    border-radius: 12px;
+}
+
+.innovation-man-image-medium {
+    height: 178px;
+    width: 338px;
+    border-radius: 12px;
+}
+
+.technology-5g-image-medium {
+    height: 178px;
+    width: 338px;
+    border-radius: 12px;
+}
+
+.technology-medium {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-size: 100;
+    color: #6e6d6d;
+}
+
+.productivity-medium {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.guidance-card {
+    background-color: #183fdb;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.need-guidence {
+    font-family: 'Roboto';
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+}
+
+.need-guidence-medium {
+    font-family: 'Arial Black';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.help-you {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #d4dcfa;
+}
+
+.need-click {
+    margin-top: 40px;
+}
+
+.need-click-medium {
+    margin-top: 20px;
+
+}
+
+.need-help-click {
+    height: 40px;
+    width: 120px;
+    border-radius: 35px;
+    font-family: 'Roboto';
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #8ea3f5;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.need-help-chat {
+    height: 40px;
+    width: 136px;
+    border-radius: 35px;
+    font-family: 'Roboto';
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #8ea3f5;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.need-help-store {
+    height: 40px;
+    width: 136px;
+    border-radius: 35px;
+    font-family: 'Roboto';
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #8ea3f5;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.our-offerings {
+    font-family: 'Roboto';
+    color: black;
+    font-weight: 500;
+}
+
+.plus-icon {
+    margin-left: 210px;
+    color: #021563;
+}
+
+.plus-icon2 {
+    margin-left: 246px;
+    color: #021563;
+}
+
+.plus-icon3 {
+    margin-left: 207px;
+    color: #021563;
+}
+
+.plus-icon4 {
+    margin-left: 220px;
+    color: #021563;
+}
+
+#our-offerings-medium {
+    font-family: 'Arial Black';
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 22px;
+}
+
+.list-offerings {
+    list-style-type: none;
+}
+
+.items-list {
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+.connect-with-us {
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 14px;
+}
+
+.connect-with-us-medium {
+    font-family: 'Arial Black';
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 14px;
+}
+
+.us {
+    font-size: 17px;
+}
+
+.us-medium {
+    font-size: 19px;
+}
+
+.twitter-icon {
+    background-color: #183fdb;
+    color: white;
+    height: 30px;
+    width: 30px;
+    padding-left: 7px;
+    padding-top: 7px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.insta-icon {
+    background-color: #183fdb;
+    color: white;
+    height: 30px;
+    width: 30px;
+    padding-left: 8px;
+    padding-top: 7px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.youtube-icon {
+    background-color: #183fdb;
+    color: white;
+    height: 30px;
+    width: 30px;
+    padding-left: 6px;
+    padding-top: 7px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.ln-icon {
+    background-color: #183fdb;
+    color: white;
+    height: 30px;
+    width: 30px;
+    padding-left: 8px;
+    padding-top: 7px;
+    border-radius: 50px;
+}
+
+.download-myjio {
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 27px;
+}
+
+.download-myjio-medium {
+    font-family: 'Arial Black';
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 27px;
+}
+
+.google-play {
+    height: 38px;
+    width: 145px;
+    margin-bottom: 5px;
+}
+
+.copyright-jio-logo {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 15px;
+}
+
+.copyright {
+    font-family: 'Roboto';
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 15px;
+    text-align: left;
+}
+
+.press-release {
+    font-family: 'Roboto';
+    font-size: 12px;
+    color: #183fdb;
+    background-color: transparent;
+    border-width: 0px;
+    font-weight: 600;
+    margin-top: 7px;
+}
+
+.press-medium {
+    margin-left: 380px;
+}
+
+.designed {
+    font-size: 8px;
+    font-family: 'Roboto';
+    margin-top: 10px;
+}
